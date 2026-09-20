@@ -1,0 +1,120 @@
+[2026-09-15 12:25:20] Server listening on 127.0.0.1:5000
+[2026-09-15 12:26:17] Player 1 connected from ('127.0.0.1', 55464)
+[2026-09-15 12:26:26] Player 2 connected from ('127.0.0.1', 55492)
+[2026-09-15 12:26:26] Dictionary loaded: words.txt (416292 words).
+[2026-09-15 12:26:42] Player 1 is READY (1/2).
+[2026-09-15 12:26:47] Player 2 is READY (2/2).
+[2026-09-15 12:26:47] Both players are ready -> GO!
+[2026-09-15 12:26:47] Starting round 1 (first to move: player 1).
+[2026-09-15 12:26:50] Player 1 played 'apple' (OK). Chain='e'
+[2026-09-15 12:26:56] Player 2 rejected word 'eeeeeeeeeeeeeeeeeeeee': Not a valid English word.
+[2026-09-15 12:26:59] Player 2 played 'eee' (OK). Chain='e'
+[2026-09-15 12:27:07] Player 1 played 'eagle' (OK). Chain='e'
+[2026-09-15 12:27:17] Player 2 RAN OUT OF TIME.
+[2026-09-15 12:27:17] Round 1 result: Player 1 wins (Ran out of time (10s)). Score 1-0.
+[2026-09-15 12:28:12] Starting round 2 (first to move: player 2).
+[2026-09-15 12:28:16] Player 2 played 'moon' (OK). Chain='n'
+[2026-09-15 12:28:19] Player 1 rejected word 'mo': The word must start with 'n'.
+[2026-09-15 12:28:23] Player 1 played 'ne' (OK). Chain='e'
+[2026-09-15 12:28:33] Player 2 RAN OUT OF TIME.
+[2026-09-15 12:28:33] Round 2 result: Player 1 wins (Ran out of time (10s)). Score 2-0.
+[2026-09-15 12:28:41] Starting round 3 (first to move: player 1).
+[2026-09-15 12:28:46] Player 1 played 'ol' (OK). Chain='l'
+[2026-09-15 12:28:56] Player 2 RAN OUT OF TIME.
+[2026-09-15 12:28:56] Round 3 result: Player 1 wins (Ran out of time (10s)). Score 3-0.
+[2026-09-15 13:02:52] Server listening on 127.0.0.1:5000
+[2026-09-15 13:03:00] Player 1 connected from ('127.0.0.1', 55957)
+[2026-09-15 13:03:15] Player 2 connected from ('127.0.0.1', 55976)
+[2026-09-15 13:03:16] Dictionary loaded: /Users/vydo/Documents/Ex10_Online_Word_Chain_Game/words.txt (416292 words).
+[2026-09-15 13:03:19] Player 2 is READY (1/2).
+[2026-09-15 13:03:22] Player 1 is READY (2/2).
+[2026-09-15 13:03:22] Both players are ready -> GO!
+[2026-09-15 13:03:22] Starting round 1 (first to move: player 1).
+[2026-09-15 13:03:24] Player 1 played 'apple' (OK). Chain='e'
+[2026-09-15 13:03:30] Player 2 rejected word 'banana': The word must start with 'e'.
+[2026-09-15 13:03:32] Player 2 rejected word 'eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee': Word is too long.
+[2026-09-15 13:03:34] Player 2 rejected word 'eeeee': Not a valid English word.
+[2026-09-15 13:03:34] Player 2 RAN OUT OF TIME.
+[2026-09-15 13:03:34] Round 1 result: Player 1 wins (Ran out of time (10s)). Score 1-0.
+[2026-09-15 13:04:21] Starting round 2 (first to move: player 2).
+[2026-09-15 13:04:24] Player 2 played 'eagle' (OK). Chain='e'
+[2026-09-15 13:04:31] Player 1 rejected word 'eagle': This word has already been used (no repeats).
+[2026-09-15 13:04:34] Player 1 RAN OUT OF TIME.
+[2026-09-15 13:04:34] Round 2 result: Player 2 wins (Ran out of time (10s)). Score 1-1.
+[2026-09-15 13:04:51] Starting round 3 (first to move: player 1).
+[2026-09-15 13:04:53] Player 1 played 'moon' (OK). Chain='n'
+[2026-09-15 13:04:59] Player 2 SURRENDERED this round.
+[2026-09-15 13:04:59] Round 3 result: Player 1 wins (Opponent surrendered this round). Score 2-1.
+[2026-09-15 13:05:18] Starting round 4 (first to move: player 2).
+[2026-09-15 13:05:21] Player 2 played 'night' (OK). Chain='t'
+[2026-09-15 13:05:31] Player 1 RAN OUT OF TIME.
+[2026-09-15 13:05:31] Round 4 result: Player 2 wins (Ran out of time (10s)). Score 2-2.
+[2026-09-15 13:05:42] Starting round 5 (first to move: player 1).
+[2026-09-15 13:05:45] Player 1 played 'night' (OK). Chain='t'
+[2026-09-15 13:05:50] Player 2 DISCONNECTED.
+[2026-09-15 13:05:50] Round 5 result: Player 1 wins (Opponent disconnected). Score 3-2.
+[2026-09-15 13:05:50] MATCH OVER. Score 3-2.
+[2026-09-15 13:06:18] Server listening on 127.0.0.1:5000
+[2026-09-15 13:07:13] Player 1 connected from ('127.0.0.1', 56068)
+[2026-09-15 13:07:49] Player 2 connected from ('127.0.0.1', 56089)
+[2026-09-15 13:07:49] Dictionary loaded: /Users/vydo/Documents/Ex10_Online_Word_Chain_Game/words.txt (416292 words).
+[2026-09-15 13:07:49] Player 1 is READY (1/2).
+[2026-09-15 13:08:23] Player 2 is READY (2/2).
+[2026-09-15 13:08:24] Both players are ready -> GO!
+[2026-09-15 13:08:24] Starting round 1 (first to move: player 1).
+[2026-09-15 13:08:34] Player 1 RAN OUT OF TIME.
+[2026-09-15 13:08:34] Round 1 result: Player 2 wins (Ran out of time (10s)). Score 0-1.
+[2026-09-15 20:42:17] MATCH OVER. Score 0-1.
+[2026-09-15 20:42:25] Server listening on 127.0.0.1:5000
+[2026-09-15 20:43:53] Player 1 connected from ('127.0.0.1', 58201)
+[2026-09-15 20:44:07] Player 2 connected from ('127.0.0.1', 58220)
+[2026-09-15 20:44:07] Dictionary loaded: /Users/vydo/Documents/Ex10_Online_Word_Chain_Game/words.txt (416292 words).
+[2026-09-15 20:44:32] Player 2 is READY (1/2).
+[2026-09-15 20:44:36] Player 1 is READY (2/2).
+[2026-09-15 20:44:36] Both players are ready -> GO!
+[2026-09-15 20:44:36] Starting round 1 (first to move: player 1).
+[2026-09-15 20:44:37] Player 1 played 'apple' (OK). Chain='e'
+[2026-09-15 20:44:40] Player 2 rejected word 'eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee': Word is too long.
+[2026-09-15 20:44:43] Player 2 rejected word 'eeeee': Not a valid English word.
+[2026-09-15 20:44:45] Player 2 played 'eagle' (OK). Chain='e'
+[2026-09-15 20:44:55] Player 1 RAN OUT OF TIME.
+[2026-09-15 20:44:55] Round 1 result: Player 2 wins (Ran out of time (10s)). Score 0-1.
+[2026-09-15 20:59:53] Starting round 2 (first to move: player 2).
+[2026-09-15 20:59:55] Player 2 played 'eagle' (OK). Chain='e'
+[2026-09-15 20:59:59] Player 1 rejected word 'banana': The word must start with 'e'.
+[2026-09-15 21:00:02] Player 1 rejected word 'eagle': This word has already been used (no repeats).
+[2026-09-15 21:00:05] Player 1 RAN OUT OF TIME.
+[2026-09-15 21:00:05] Round 2 result: Player 2 wins (Ran out of time (10s)). Score 0-2.
+[2026-09-15 21:08:02] MATCH OVER. Score 0-2.
+[2026-09-15 21:08:55] Server listening on 127.0.0.1:5000
+[2026-09-15 21:09:30] Server listening on 127.0.0.1:5000
+[2026-09-15 21:09:54] Player 1 connected from ('127.0.0.1', 58660)
+[2026-09-15 21:10:34] Player 2 connected from ('127.0.0.1', 58685)
+[2026-09-15 21:10:34] Dictionary loaded: /Users/vydo/Documents/Ex10_Online_Word_Chain_Game/words.txt (416292 words).
+[2026-09-15 21:10:34] Player 1 is READY (1/2).
+[2026-09-15 21:11:11] Player 2 is READY (2/2).
+[2026-09-15 21:11:11] Both players are ready -> GO!
+[2026-09-15 21:11:11] Starting round 1 (first to move: player 1).
+[2026-09-15 21:11:21] Player 1 RAN OUT OF TIME.
+[2026-09-15 21:11:21] Round 1 result: Player 2 wins (Ran out of time (10s)). Score 0-1.
+[2026-09-15 21:14:19] MATCH OVER. Score 0-1.
+[2026-09-15 21:14:23] Server listening on 127.0.0.1:5000
+[2026-09-15 21:14:42] Player 1 connected from ('127.0.0.1', 58789)
+[2026-09-15 21:14:49] Player 2 connected from ('127.0.0.1', 58805)
+[2026-09-15 21:14:49] Dictionary loaded: /Users/vydo/Documents/Ex10_Online_Word_Chain_Game/words.txt (416292 words).
+[2026-09-15 21:14:52] Player 1 is READY (1/2).
+[2026-09-15 21:14:55] Player 2 is READY (2/2).
+[2026-09-15 21:14:55] Both players are ready -> GO!
+[2026-09-15 21:14:55] Starting round 1 (first to move: player 1).
+[2026-09-15 21:14:58] Player 1 played 'apple' (OK). Chain='e'
+[2026-09-15 21:15:08] Player 2 RAN OUT OF TIME.
+[2026-09-15 21:15:08] Round 1 result: Player 1 wins (Ran out of time (10s)). Score 1-0.
+[2026-09-15 21:15:20] Starting round 2 (first to move: player 2).
+[2026-09-15 21:15:22] Player 2 played 'apple' (OK). Chain='e'
+[2026-09-15 21:15:28] Player 1 SURRENDERED this round.
+[2026-09-15 21:15:28] Round 2 result: Player 2 wins (Opponent surrendered this round). Score 1-1.
+[2026-09-15 21:18:38] Starting round 3 (first to move: player 1).
+[2026-09-15 21:18:41] Player 1 played 'night' (OK). Chain='t'
+[2026-09-15 21:18:45] Player 2 DISCONNECTED.
+[2026-09-15 21:18:45] Round 3 result: Player 1 wins (Opponent disconnected). Score 2-1.
+[2026-09-15 21:18:45] MATCH OVER. Score 2-1.

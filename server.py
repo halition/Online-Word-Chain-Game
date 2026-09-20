@@ -10,6 +10,7 @@ import time
 import json
 import math
 import datetime
+import os
 
 # CONFIG 
 HOST = "127.0.0.1"
@@ -18,7 +19,13 @@ TURN_TIME = 10          # seconds per turn
 MAX_WORD_LEN = 45       # guard against over-long input 
 MAX_BUFFER_LEN = 4096   # guard: max bytes buffered for one line with no '\n' yet
 LOG_FILE = "game.log"
-DICT_PATHS = ["words.txt", "/usr/share/dict/words"]   
+# Look for words.txt NEXT TO this script first (so it works no matter which
+# directory the server is launched from), then in the current directory, then
+# the system dictionary.
+SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+DICT_PATHS = [os.path.join(SCRIPT_DIR, "words.txt"),
+              "words.txt",
+              "/usr/share/dict/words"]
 
 msg_queue = queue.Queue()          # items: (player_id, raw_line | None)
 log_lock = threading.Lock()
